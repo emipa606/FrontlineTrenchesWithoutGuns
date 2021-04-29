@@ -1,4 +1,7 @@
 # Changelog for FrontlineTrenchesWithoutGuns
 
+1.0.1.0 - Correct license
+
+
 1.0.0.0 - First publish
 
