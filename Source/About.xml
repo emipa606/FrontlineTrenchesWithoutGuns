@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Frontline - Trenches without guns</name>
+  <author>Wuerger</author>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <packageId>Wuerger.Frontline.Trenches.wo.guns</packageId>
+  <description>Adds the posibility to set up some trenches, sandbags and razorwires for defence. </description>
+</ModMetaData>
