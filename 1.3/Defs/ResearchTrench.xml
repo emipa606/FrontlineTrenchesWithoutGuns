@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-->
+	<ResearchTabDef>
+		<defName>Trenches</defName>
+		<label>Ancient art of digging some trenches.</label>
+	</ResearchTabDef>
+	
+<-->
+  <ResearchProjectDef>
+    <defName>Trenches1</defName>
+    <label>Trenches of WW1.</label>
+    <techLevel>Industrial</techLevel>
+    <description>First knowledge of setting up a defensive line by using trenches.</description>
+    <baseCost>750</baseCost>
+    <researchViewX>0</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+</Defs>
