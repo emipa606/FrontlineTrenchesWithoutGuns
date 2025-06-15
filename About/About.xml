@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Frontline - Trenches without guns (Continued)</name>
+  <name>[Legacy] Frontline - Trenches without guns (Continued)</name>
   <packageId>Mlie.FrontlineTrenchesWithoutGuns</packageId>
   <author>Wuerger</author>
   <url>https://github.com/emipa606/FrontlineTrenchesWithoutGuns</url>
@@ -25,6 +25,10 @@ with permission
 If you like the mod, show the original author your appreciation here: 
 [url=https://ko-fi.com/wuergerking][img]https://i.imgur.com/gmaqOA3.png[/img][/url]
 
+[b]The release of RimWorld 1.6 added improved support for [url=https://github.com/emipa606/AssetBuilder/blob/main/README.md]Asset Bundles[/url].[/b]
+To avoid doubling the size of the mod, it was re-released using only Asset Bundles, you can find the new version of this mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3500414657]here[/url].
+This version will not receive any further updates.
+
 - Fixed some icon and blueprint size-differences
 
 [img]https://i.imgur.com/pufA0kM.png[/img]
@@ -32,7 +36,7 @@ If you like the mod, show the original author your appreciation here:
 [table]
     [tr]
         [td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
-        [td][url=https://github.com/emipa606/FrontlineTrenchesWithoutGuns][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/FrontlineTrenchesWithoutGuns/tree/legacy][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
     [tr]
         [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
@@ -66,7 +70,8 @@ Feel free to comment.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]
+[/list] 
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2471431871][img]https://img.shields.io/github/v/release/emipa606/FrontlineTrenchesWithoutGuns?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
 </ModMetaData>
