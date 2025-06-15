@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Trench Dirt -->
+  <TGWDirt.label>Trench Dirt</TGWDirt.label>
+  <!-- EN: Trench dirt surrounding ground, disgusting but fits well around your trench. -->
+  <TGWDirt.description>Trench dirt surrounding ground, disgusting but fits well around your trench.</TGWDirt.description>
+  <!-- EN: Trench Tile vertical -->
+  <TGWTrenchFloorvertical.label>Trench Tile vertical</TGWTrenchFloorvertical.label>
+  <!-- EN: Trench ground, disgusting but fits well into your trench. -->
+  <TGWTrenchFloorvertical.description>Trench ground, disgusting but fits well into your trench.</TGWTrenchFloorvertical.description>
+  <!-- EN: Trench Tile horizontal -->
+  <Trenchfloorhorizontal.label>Trench Tile horizontal</Trenchfloorhorizontal.label>
+  <!-- EN: Trench ground, disgusting but fits well into your trench. -->
+  <Trenchfloorhorizontal.description>Trench ground, disgusting but fits well into your trench.</Trenchfloorhorizontal.description>
+  <!-- EN: No man's land -->
+  <TRNomansland.label>No man's land</TRNomansland.label>
+  <!-- EN: Bombed area, you can almost hear the screams of fallen soldiers. Passing this area slows you down. -->
+  <TRNomansland.description>Bombed area, you can almost hear the screams of fallen soldiers. Passing this area slows you down.</TRNomansland.description>
+</LanguageData>

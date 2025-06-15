@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Trench - North/East -->
+  <TrenchesAtlas11tr.label>Trench - North/East</TrenchesAtlas11tr.label>
+  <!-- EN: Trenches for extra cover. -->
+  <TrenchesAtlas11tr.description>Trenches for extra cover.</TrenchesAtlas11tr.description>
+  <!-- EN: Trench - South/West -->
+  <TrenchesAtlas12tr.label>Trench - South/West</TrenchesAtlas12tr.label>
+  <!-- EN: Trenches for extra cover. -->
+  <TrenchesAtlas12tr.description>Trenches for extra cover.</TrenchesAtlas12tr.description>
+  <!-- EN: Steep Trench - South/West -->
+  <TrenchesAtlas21tr.label>Steep Trench - South/West</TrenchesAtlas21tr.label>
+  <!-- EN: Trenches for extra cover. -->
+  <TrenchesAtlas21tr.description>Trenches for extra cover.</TrenchesAtlas21tr.description>
+  <!-- EN: Steep Trench - North/East -->
+  <TrenchesAtlas22tr.label>Steep Trench - North/East</TrenchesAtlas22tr.label>
+  <!-- EN: Trenches for extra cover. -->
+  <TrenchesAtlas22tr.description>Trenches for extra cover.</TrenchesAtlas22tr.description>
+</LanguageData>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="TR-Razorwire" Abstract="True">
+    <category>Building</category>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+    <selectable>true</selectable>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <repairEffect>Repair</repairEffect>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <designationCategory>Trenches</designationCategory>
+  </ThingDef>
+  <ThingDef ParentName="TR-Razorwire">
+    <defName>Trench-Razorwire</defName>
+    <label>Trench - Razorwire</label>
+    <thingClass>Building</thingClass>
+    <researchPrerequisites>
+      <li>Trenches1</li>
+    </researchPrerequisites>
+    <category>Building</category>
+    <description>Razorwire. Slows down your enemies.</description>
+    <graphicData>
+      <texPath>Things/Building/Trench/Razorwire/Razorwire_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <linkType>Basic</linkType>
+      <linkFlags>
+        <li>Custom3</li>
+      </linkFlags>
+    </graphicData>
+    <uiIconPath>Things/Building/Trench/Razorwire/Razorwire_UI</uiIconPath>
+    <altitudeLayer>Building</altitudeLayer>
+    <building>
+      <isInert>true</isInert>
+      <blueprintGraphicData>
+        <texPath>Things/Building/Trench/Razorwire/Razorwire_Blueprint_Atlas</texPath>
+      </blueprintGraphicData>
+    </building>
+    <statBases>
+      <Beauty>-10</Beauty>
+      <MaxHitPoints>400</MaxHitPoints>
+      <WorkToBuild>800</WorkToBuild>
+      <Flammability>0</Flammability>
+    </statBases>
+    <damageMultipliers>
+      <li>
+        <damageDef>Bomb</damageDef>
+        <multiplier>3</multiplier>
+      </li>
+    </damageMultipliers>
+    <costList>
+      <Steel>5</Steel>
+      <WoodLog>3</WoodLog>
+    </costList>
+    <constructEffect>ConstructMetal</constructEffect>
+    <repairEffect>ConstructMetal</repairEffect>
+    <filthLeaving>Filth_RubbleBuilding</filthLeaving>
+    <passability>PassThroughOnly</passability>
+    <pathCost>85</pathCost>
+    <pathCostIgnoreRepeat>false</pathCostIgnoreRepeat>
+    <castEdgeShadows>false</castEdgeShadows>
+    <fillPercent>0</fillPercent>
+    <coversFloor>false</coversFloor>
+    <drawStyleCategory>Defenses</drawStyleCategory>
+    <tickerType>Never</tickerType>
+    <rotatable>false</rotatable>
+    <selectable>true</selectable>
+    <neverMultiSelect>false</neverMultiSelect>
+    <holdsRoof>false</holdsRoof>
+    <staticSunShadowHeight>0</staticSunShadowHeight>
+    <blockLight>false</blockLight>
+  </ThingDef>
+</Defs>

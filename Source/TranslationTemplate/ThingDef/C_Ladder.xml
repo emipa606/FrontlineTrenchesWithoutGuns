@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Steep Trench - Ladder -->
+  <Steepladder.label>Steep Trench - Ladder</Steepladder.label>
+  <!-- EN: Easier way to get out of your trench, charge! -->
+  <Steepladder.description>Easier way to get out of your trench, charge!</Steepladder.description>
+  <!-- EN: Trench - Ladder -->
+  <trenchladder.label>Trench - Ladder</trenchladder.label>
+  <!-- EN: Easier way to get out of your trench, charge! -->
+  <trenchladder.description>Easier way to get out of your trench, charge!</trenchladder.description>
+</LanguageData>

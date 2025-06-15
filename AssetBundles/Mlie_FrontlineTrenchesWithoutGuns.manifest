@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 2996483081
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95469b8c0f8fa38dacb41baf5224d0a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 95469b8c0f8fa38dacb41baf5224d0a1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trenches/trench21_UI.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Invis.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trench/Trench1ladder_east.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trench/Trench1ladder_south.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Floors/Bombed.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Sandbags/Sandbags_Atlas.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trench/Trench2ladder_south.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trenches/Blueprint/Trench22_Blueprint_Atlas.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Floors/Bombed_UI.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trenches/Blueprint/Trench12_Blueprint_Atlas.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trenches/trench11_UI.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trenches/trench12_UI.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Razorwire/Razorwire_Blueprint_Atlas.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trenches/Trench11_Atlas.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Sandbags/Trench-SandbagsUI.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trenches/Blueprint/Trench11_Blueprint_Atlas.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trench/Trench1step_north.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Floors/Floorvertical.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trenches/Trench21_Atlas.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trench/Trench2step_north.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Floors/Floorhorizontal.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trench/Trench1step_south.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trench/Trench2step_east.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trench/Trench1ladder_north.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Razorwire/Razorwire_UI.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trench/Trench2ladder_east.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trench/Trench2ladder_north.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trenches/trench22_UI.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Floors/Dirt.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trenches/Trench22_Atlas.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trench/Trench2step_south.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trenches/Blueprint/Trench21_Blueprint_Atlas.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trench/Trench1ladder_UI.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Sandbags/Sandbags_Blueprint_Atlas.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trench/Trench1step_east.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Razorwire/Razorwire_Atlas.png
+- Assets/Data/Mlie.FrontlineTrenchesWithoutGuns/Textures/Things/Building/Trench/Trenches/Trench12_Atlas.png
+Dependencies: []

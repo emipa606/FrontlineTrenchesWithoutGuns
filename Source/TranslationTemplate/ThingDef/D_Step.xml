@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Steep Trench - Step -->
+  <Steeptrenchstep.label>Steep Trench - Step</Steeptrenchstep.label>
+  <!-- EN: One step to reach a nearby machine gun. -->
+  <Steeptrenchstep.description>One step to reach a nearby machine gun.</Steeptrenchstep.description>
+  <!-- EN: Trench - Step -->
+  <Trenchstep.label>Trench - Step</Trenchstep.label>
+  <!-- EN: One step to reach a nearby machine gun. -->
+  <Trenchstep.description>One step to reach a nearby machine gun.</Trenchstep.description>
+</LanguageData>
