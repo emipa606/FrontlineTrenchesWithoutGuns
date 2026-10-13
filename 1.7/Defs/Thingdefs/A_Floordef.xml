@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef Name="FloorBaseTrench" Abstract="True">
+    <layerable>true</layerable>
+    <affordances>
+      <li>Light</li>
+      <li>Heavy</li>
+      <li>Medium</li>
+    </affordances>
+    <designationCategory>Trenches</designationCategory>
+    <constructEffect>ConstructDirt</constructEffect>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+  </TerrainDef>
+  <!-- =======================TrenchFloor Dirt======================= -->
+  <TerrainDef ParentName="FloorBaseTrench">
+    <defName>TGWDirt</defName>
+    <label>Trench Dirt</label>
+    <renderPrecedence>240</renderPrecedence>
+    <description>Trench dirt surrounding ground, disgusting but fits well around your trench.</description>
+    <texturePath>Things/Floors/Dirt</texturePath>
+    <statBases>
+      <Beauty>-2</Beauty>
+      <WorkToBuild>200</WorkToBuild>
+    </statBases>
+    <constructEffect>ConstructDirt</constructEffect>
+    <fertility>0.02</fertility>
+    <edgeType>Hard</edgeType>
+  </TerrainDef>
+  <!-- =======================No man's land======================= -->
+  <TerrainDef ParentName="FloorBaseTrench">
+    <defName>TRNomansland</defName>
+    <label>No man's land</label>
+    <renderPrecedence>240</renderPrecedence>
+    <description>Bombed area, you can almost hear the screams of fallen soldiers. Passing this area slows you down.</description>
+    <texturePath>Things/Floors/Bombed</texturePath>
+    <uiIconPath>Things/Floors/Bombed_UI</uiIconPath>
+    <statBases>
+      <Beauty>-2</Beauty>
+      <WorkToBuild>200</WorkToBuild>
+    </statBases>
+    <pathCost>5</pathCost>
+    <constructEffect>ConstructDirt</constructEffect>
+    <fertility>0</fertility>
+    <edgeType>Fade</edgeType>
+  </TerrainDef>
+  <!-- =======================TrenchFloor Horizontal======================= -->
+  <TerrainDef ParentName="FloorBaseTrench">
+    <defName>Trenchfloorhorizontal</defName>
+    <label>Trench Tile horizontal</label>
+    <renderPrecedence>240</renderPrecedence>
+    <description>Trench ground, disgusting but fits well into your trench.</description>
+    <texturePath>Things/Floors/Floorhorizontal</texturePath>
+    <statBases>
+      <Beauty>-2</Beauty>
+      <WorkToBuild>200</WorkToBuild>
+    </statBases>
+    <costList>
+      <WoodLog>4</WoodLog>
+    </costList>
+    <constructEffect>ConstructWood</constructEffect>
+    <researchPrerequisites>
+      <li>Trenches1</li>
+    </researchPrerequisites>
+    <fertility>0</fertility>
+    <edgeType>Hard</edgeType>
+  </TerrainDef>
+  <!-- =======================TrenchFloor Vertical======================= -->
+  <TerrainDef ParentName="FloorBaseTrench">
+    <defName>TGWTrenchFloorvertical</defName>
+    <label>Trench Tile vertical</label>
+    <renderPrecedence>240</renderPrecedence>
+    <description>Trench ground, disgusting but fits well into your trench.</description>
+    <texturePath>Things/Floors/Floorvertical</texturePath>
+    <statBases>
+      <Beauty>-2</Beauty>
+      <WorkToBuild>200</WorkToBuild>
+    </statBases>
+    <costList>
+      <WoodLog>4</WoodLog>
+    </costList>
+    <constructEffect>ConstructWood</constructEffect>
+    <researchPrerequisites>
+      <li>Trenches1</li>
+    </researchPrerequisites>
+    <fertility>0</fertility>
+    <edgeType>Hard</edgeType>
+  </TerrainDef>
+</Defs>
